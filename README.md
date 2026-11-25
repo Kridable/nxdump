@@ -1,6 +1,6 @@
 # NxDump
 
-Android 10+ tool to extract **ExeFS**, **RomFS** and **DLC** from your own XCI / NSP / NCA dumps,
+Android  10+ tool to extract **ExeFS**, **RomFS** and **DLC** from your own XCI / NSP / NCA dumps,
 with **updates merged on top** (BKTR patching). Material 3, dynamic colour, dark mode.
 No emulation — extraction only.
 
